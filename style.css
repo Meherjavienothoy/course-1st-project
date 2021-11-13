@@ -3,6 +3,9 @@
     padding-left: 10%;
     
 }
+.paddd{
+    padding-top: 17%;
+}
 
 .text-color{
     color: rgb(199, 19, 145);
@@ -18,4 +21,23 @@
 }
 .bg-img-1{
     background-image: url("img/biography-bg.png");
+}
+.padd{
+    padding: 60px;
+}
+.design{
+    text-align: center;
+    padding-top: 60px;
+}
+.bg{
+    background-color: chartreuse;
+    color: white;
+    padding: 20px;
+}
+.pi{
+    padding-bottom: 5%;
+
+}
+.bg-3{
+    background-image: url(img/footer-bg.png);
 }
